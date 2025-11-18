@@ -81,11 +81,6 @@ export default {
       searchQuery: '',
       selectedEngine: 'wangpan',
       engines: {
-        wangpan: { 
-          name: '网盘', 
-          url: 'https://wpzy.cc/?q=', 
-          placeholder: '网盘资源搜索...' 
-        },
         bing: { 
           name: 'Bing', 
           url: 'https://www.bing.com/search?q=', 
