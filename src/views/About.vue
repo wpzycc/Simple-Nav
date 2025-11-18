@@ -19,19 +19,12 @@
                 </p>
                 <p> 
                   <a 
-                    href="https://vika.cn/share/shrxaWuBbbn6cKWBwvXgV" 
+                    href="https://vika.cn/share/shrMWH5VK2G6Bi59nHiP5" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
                     维基云表格地址
-                  </a> |                   
-                  <a 
-                    href="https://vika.cn/workbench/fomWQp8Fd6lHE5CBKl/viwullRf3ubdS?fldM5GkwwsOFh=%2Fdefault.ico&fldXKVGVmpAnY=%E6%9D%82%E9%A1%B9%E5%B7%A5%E5%85%B7" 
-                    target="_blank"
-                    class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
-                  >
-                    网站收录申请
-                  </a>
+                  </a>           
                 </p>
               </div>
               
