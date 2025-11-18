@@ -79,7 +79,7 @@ export default {
     return {
       showEngines: false,
       searchQuery: '',
-      selectedEngine: 'wangpan',
+      selectedEngine: 'baidu',
       engines: {
         bing: { 
           name: 'Bing', 
