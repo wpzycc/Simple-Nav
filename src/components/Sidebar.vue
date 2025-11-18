@@ -14,12 +14,12 @@
         <router-link 
           to="/"
           @click.native="resetCategory">
-         <i class="fas fa-globe text-purple-500 text-base"></i>
+         <i class="text-red-500 text-red"></i>
         </router-link>
         <!-- 添加 router-link 实现跳转 -->
         <router-link 
           to="/"
-          class="ml-2 font-bold text-purple-600 dark:text-purple-400"
+          class="ml-2 font-bold text-red-600 dark:text-red-400"
           :class="{ 'hidden': isCollapsed }"
           @click.native="resetCategory"
         >
