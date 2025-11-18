@@ -2,7 +2,7 @@
   <nav class="h-12 sticky top-0 z-30 bg-white dark:bg-gray-800 shadow-md px-4 py-2 flex justify-between items-center">
     <!-- 修改为 router-link 以实现跳转 -->
     <router-link to="/" class="text-xl font-bold text-blue-500">
-      <i class="fas fa-globe"></i> 要简单导航站
+      <i class="fas fa-globe"></i> AI导航站
     </router-link>
     
     <!-- 修改搜索区域显示逻辑 -->
@@ -56,7 +56,7 @@
       >
         <i class="fas fa-cog hover:rotate-90 transition-transform duration-300"></i>
       </router-link>
-      <!-- 新增GitHub图标 -->
+      <!-- 新增GitHub图标
       <a 
         href="https://github.com/jianzhugo/Simple-Nav" 
         target="_blank"
@@ -64,6 +64,7 @@
       >
         <i class="fab fa-github text-xl hover:rotate-12 transition-transform"></i>
       </a>
+      -->
       
       <!-- 原有的暗黑模式切换按钮 -->
       <button 
