@@ -7,7 +7,7 @@
             class="text-3xl font-bold mb-6 text-center text-purple-600 dark:text-purple-400 hover:text-purple-800 dark:hover:text-purple-300 transition-colors cursor-pointer"
             @click="$router.push('/')"
           >
-            关于 Simple NAV
+            关于 AI 网址导航
           </h1>
           <div class="prose dark:prose-invert">
             <div class="grid grid-cols-2 gap-6 mb-8">
@@ -64,33 +64,33 @@
               <i class="fas fa-user-circle text-red-500 text-xl mb-2"></i>
               <h3 class="text-xl font-semibold mb-2">关于作者</h3>
               <div class="text-gray-600 dark:text-gray-300 space-y-2">
-                <p>🕴️ 开发者：水常（Shui Chang）</p>
-                <p>🚀 带娃建筑师 | AI技术学习者 | 个人博主</p>
-                <p>🏠 个人主页： 
+                <p>🕴️ 二开者：AQ网盘资源论坛</p>
+                <p>🚀 AI技术学习者 | 资源博主</p>
+                <p>🏠 论坛主页： 
                   <a 
-                    href="https://jianzhugo.cn" 
+                    href="https://wpzy.cc" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
-                    水常@Shui Chang
+                    AQ网盘论坛
                   </a>
                 </p>
-                <p>🌐 个人博客： 
+                <p>🌐 个人站点： 
                   <a 
-                    href="https://blog.jianzhugo.cn" 
+                    href="https://wpzy.me" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
-                    建筑G博客
+                    AQ影视
                   </a>
                 </p>
-                <p>💰 另一AI网页成品： 
+                <p>💰 网盘全网搜： 
                   <a 
-                    href="https://donate.jianzhugo.cn" 
+                    href="https://yunsou.xyz" 
                     target="_blank"
                     class="text-blue-500 hover:text-blue-700 dark:hover:text-blue-400 underline"
                   >
-                    打赏页面
+                    云搜影视
                   </a>
                 </p>
               </div>
@@ -110,7 +110,7 @@
                   <div class="text-sm text-gray-500">可用性监测</div>
                 </div>
                 <div>
-                  <div class="text-2xl font-bold text-green-500">2025-05-14</div>
+                  <div class="text-2xl font-bold text-green-500">2025-11-18</div>
                   <div class="text-sm text-gray-500">手动更新</div>
                 </div>
               </div>
